@@ -1,0 +1,15 @@
+body{
+    background-color: coral;
+    margin: 30px;
+    padding: 20px;
+    border: 40px;
+}
+h1{
+    color: brown;
+    font-family: fantasy;
+}
+
+p{ font-family: fantasy;
+   font-size: medium;
+
+}
