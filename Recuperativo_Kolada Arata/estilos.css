@@ -1,0 +1,17 @@
+
+h1{
+color: rgba(0, 0, 0, 0.473);
+text-align: center;
+font-size: 50px;
+}
+body {
+background-color: rgb(206, 250, 240);
+color: rgb(82, 43, 49);
+}
+p{
+    font-size: 30px;
+    margin: 30px auto;
+    border: 30px solid rgb(255, 150, 150)
+    
+    
+}
